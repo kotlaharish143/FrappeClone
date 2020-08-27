@@ -1,0 +1,11 @@
+.inner{
+    padding: 20 150px !important;
+    
+}
+
+
+@media only screen and (max-width: 768px) {
+    .inner{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }}
