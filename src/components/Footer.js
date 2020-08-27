@@ -12,7 +12,7 @@ export default function Footer() {
             <div className="container ">
                 
                     <div className="row">
-                        <img src={frappe} className="ml-4" style={{width:80}}/>
+                        <img src={frappe} className="ml-4 img-fluid" style={{width:80}}/>
                     </div>
 	                <div className="row border-bottom pb-3">
 	                	<div className="d-flex flex-wrap col-sm-6">

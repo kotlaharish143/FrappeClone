@@ -4,13 +4,13 @@
   } */
 
 .link_item{
-  font-size: 20px;
+  font-size: 12px;
   font-weight: bold;
 
 }
 
 .link_item:hover{
-    font-size: 20px;
+    font-size: 12px;
     color: rgb(95, 164, 241);
   }
 
